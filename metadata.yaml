@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43070'
     url: http://www.gutenberg.org/2009/agents/43070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45074#The-Vision-Splendid
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
