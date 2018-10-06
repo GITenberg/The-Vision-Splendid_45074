@@ -3,16 +3,20 @@
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are
+located before using this ebook.
 
 
 
 Title: The Vision Splendid
 Author: D. K. Broster and G. W. Taylor
 Release Date: March 08, 2014 [EBook #45074]
+Reposted: August 17, 2015 [- text corrections]
 Language: English
 Character set encoding: US-ASCII
 
@@ -1465,7 +1469,7 @@ like a horse," said M. le Comte de la Roche-Guyon a little doubtfully.
 
 The wind of the Berkshire Downs blew through his dark hair as he stood,
 hat on hip, one hand at his chin, and looked down on the strange beast
-stretched af his feet on the chalky hillside turf.
+stretched at his feet on the chalky hillside turf.
 
 "It is not," confessed the Rector, holding on to his hat.  "For one
 thing the tail seems longer than the legs, does it not?  (The whole
@@ -2334,7 +2338,7 @@ and Rev. Stephen Grenville was distinctly conscious of a desire for his
 bed.  Nor did the converse in which he was entangled with an elderly
 entomologist staying in the neighbourhood really reconcile him to
 sitting through so many quadrilles and country dances--to hearing
-selections from _La Gazza Ladra_ give place to _Basque Roads, Der
+selections from _La Gazza Ladra_ give place to _Basque Roads_, _Der
 Freischuetz_ to _Drops of Brandy_.  The Rector had no enthusiasm for
 lepidoptera, and he could by no means get the collector of beetles to
 listen to his own views on monoliths.  Not inappropriately did the
@@ -2975,7 +2979,7 @@ full sunlight, like the Provost's lodgings on the north side of the
 quadrangle, but, save the slowly creeping shadows, the spaniel was the
 only living thing visible in the sleepy peace which no undergraduate
 clamour had disturbed for three months past. Such Fellows as were in
-residence were out walking of riding--all but two.  The porter, if
+residence were out walking or riding--all but two.  The porter, if
 roused, could have told an inquirer--as he was shortly to tell
 Tristram--that Mr. Dormer was in his rooms; that he was working very
 hard, he believed, and had not been out of college, let alone on a
@@ -10050,7 +10054,7 @@ order the carriage to be ready?"
 
 "Well, you can go.  Give me the mask."
 
-The man departed, and Armand, humming an air the mask dangling from his
+The man departed, and Armand, humming an air, the mask dangling from his
 hand, tried altering by at inch or two the position of the dagger at his
 hip.  Then he looked at the clock, and on what seemed a sudden impulse,
 threw down the mask upon a sofa and went out of the room.
@@ -12177,7 +12181,7 @@ lips were repeating the familiar words, "One thing thou lackest ... sell
 whatsoever thou hast, and give to the poor ... and come, take up the
 cross, and follow Me."
 
-All the rest of the day the story kept running in nis head.  He could
+All the rest of the day the story kept running in his head.  He could
 not quite think why, except that it was one of those scenes in the
 Gospel, dealing with an individual, which had always interested him.
 With his mother's charity he had often hoped that the young ruler came
@@ -15242,21 +15246,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/45074
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg(tm) electronic works to protect the
-Project Gutenberg(tm) concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You may
-use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away - you may do practically _anything_ with public
-domain eBooks.  Redistribution is subject to the trademark license,
-especially commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg(tm)
+electronic works to protect the Project Gutenberg(tm) concept and
+trademark. Project Gutenberg is a registered trademark, and may not be
+used if you charge for the eBooks, unless you receive specific
+permission. If you do not charge anything for copies of this eBook,
+complying with the rules is very easy. You may use this eBook for nearly
+any purpose such as creation of derivative works, reports, performances
+and research.  They may be modified and printed and given away - you may
+do practically _anything_ in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 
 
@@ -15302,9 +15307,9 @@ works. See paragraph 1.E below.
 Foundation" or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg(tm) electronic works. Nearly all the individual works
 in the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg(tm) mission of promoting free access to electronic
@@ -15335,21 +15340,25 @@ on which the phrase "Project Gutenberg" appears, or with which the
 phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you'll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg(tm) electronic work is
-derived from the public domain (does not contain a notice indicating
-that it is posted with permission of the copyright holder), the work can
-be copied and distributed to anyone in the United States without paying
-any fees or charges. If you are redistributing or providing access to a
-work with the phrase "Project Gutenberg" associated with or appearing on
-the work, you must comply either with the requirements of paragraphs
-1.E.1 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg(tm) trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+derived from texts not protected by U.S. copyright law (does not contain
+a notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase "Project Gutenberg"
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg(tm) trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg(tm) electronic work is
 posted with the permission of the copyright holder, your use and
@@ -15423,21 +15432,22 @@ provided that
 *1.E.9.* If you wish to charge a fee or distribute a Project
 Gutenberg(tm) electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg(tm) trademark. Contact the
-Foundation as set forth in Section 3. below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg(tm)
+trademark. Contact the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg(tm) collection.
-Despite these efforts, Project Gutenberg(tm) electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg(tm) collection. Despite these efforts, Project Gutenberg(tm)
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -15523,13 +15533,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation's web site and official page
-at http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -15584,9 +15594,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg(tm) eBooks with only a loose network of volunteer support.
 
 Project Gutenberg(tm) eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook's eBook
 number, often in several formats including plain vanilla ASCII,

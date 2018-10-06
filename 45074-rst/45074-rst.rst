@@ -4,6 +4,7 @@
    :PG.Id: 45074
    :PG.Title: The Vision Splendid
    :PG.Released: 2014-03-08
+   :PG.Reposted: 2015-08-17 - text corrections
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
    :DC.Creator: \D. \K. Broster
@@ -1875,7 +1876,7 @@ Comte de la Roche-Guyon a little doubtfully.
 
 The wind of the Berkshire Downs blew through his
 dark hair as he stood, hat on hip, one hand at his chin,
-and looked down on the strange beast stretched af
+and looked down on the strange beast stretched at
 his feet on the chalky hillside turf.
 
 "It is not," confessed the Rector, holding on to his
@@ -2972,7 +2973,7 @@ was entangled with an elderly entomologist staying in
 the neighbourhood really reconcile him to sitting
 through so many quadrilles and country dances—to
 hearing selections from *La Gazza Ladra* give place to
-*Basque Roads, Der Freischütz* to *Drops of Brandy*.  The
+*Basque Roads*, *Der Freischütz* to *Drops of Brandy*.  The
 Rector had no enthusiasm for lepidoptera, and he could
 by no means get the collector of beetles to listen to his
 own views on monoliths.  Not inappropriately did the
@@ -3771,7 +3772,7 @@ lodgings on the north side of the quadrangle, but, save
 the slowly creeping shadows, the spaniel was the only
 living thing visible in the sleepy peace which no
 undergraduate clamour had disturbed for three months past.
-Such Fellows as were in residence were out walking of
+Such Fellows as were in residence were out walking or
 riding—all but two.  The porter, if roused, could have
 told an inquirer—as he was shortly to tell Tristram—that
 Mr. Dormer was in his rooms; that he was working
@@ -12841,7 +12842,7 @@ At what time did I order the carriage to be ready?"
 
 "Well, you can go.  Give me the mask."
 
-The man departed, and Armand, humming an air
+The man departed, and Armand, humming an air,
 the mask dangling from his hand, tried altering by at
 inch or two the position of the dagger at his hip.  Then
 he looked at the clock, and on what seemed a sudden
@@ -15586,7 +15587,7 @@ repeating the familiar words, "One thing thou lackest
 ... and come, take up the cross, and follow Me."
 
 All the rest of the day the story kept running in
-nis head.  He could not quite think why, except that
+his head.  He could not quite think why, except that
 it was one of those scenes in the Gospel, dealing with
 an individual, which had always interested him.  With
 his mother's charity he had often hoped that the
@@ -18923,7 +18924,7 @@ those mixed ecclesiastical surroundings which had
 always puzzled him.  Maman, though she prayed so
 much, never went with him to Mass.  M. le Curé, in the
 country, when pressed would shake his head and say
-that Madame la Comtesse was Anglicane et très devote,
+that Madame la Comtesse was Anglicane et très dévote,
 and although not a Catholic not quite a Protestant.
 As if to excuse this enlightened view he would add that
 she believed in the Real Presence, that she had a
